@@ -1,0 +1,7 @@
+.bit {
+    height: 18px;
+    width: 18px;
+    margin: 0;
+    position: absolute;
+    border: darkgray solid 1px;
+}
